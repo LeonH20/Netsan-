@@ -1,6 +1,6 @@
 # Fazit Janik
 
-Ich fand die Aufgabe sehr cool, und auch wenn nicht alles so geklappt hat, hat es mir spass gemacht. 
+Ich fand die Aufgabe sehr cool, und auch wenn nicht alles so ganz geklappt hat, hat es mir Spass gemacht. 
 Ich habe einige Dinge repetieren können, und auch einiges nochmal dazugelernt.
 
 Ich fühlte mich während des Auftrags schon fast ein wenig, wie wenn ich im Betrieb ein Netzwerk planen
