@@ -4,7 +4,7 @@ einen Windows Client, Ubuntu Client, Ubuntu Server und Windows Server hatten mit
 und Router.
 
 <br> **Auftrag:** <br>
-![Auftrag]()
+![Auftrag](arbeit.JPEG)
 
 <br> **Was haben wir gemacht:** <br>
 Wir haben einen SSH und FTP-Server auf Ubuntu Linux erstellt und konfiguriert damit wir z.B. Daten auf den 
